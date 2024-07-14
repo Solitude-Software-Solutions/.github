@@ -1,10 +1,10 @@
-# Solitude Solutions
+# Solitude Software Solutions
 
-Welcome to Solitude Solutions, a personal coding sanctuary where rural tranquility meets technological exploration.
+Welcome to Solitude Software Solutions, a personal coding sanctuary where rural tranquility meets technological exploration.
 
 ## About
 
-Solitude Solutions is a personal GitHub organization created by a developer who finds inspiration in the quiet of country living. It's a space for exploring interesting ideas, building useful tools, and learning through doing.
+Solitude Software Solutions is a personal GitHub organization created by a developer who finds inspiration in the quiet of country living. It's a space for exploring interesting ideas, building useful tools, and learning through doing.
 
 ## Current Project: OstrichDB
 
@@ -16,7 +16,7 @@ OstrichDB is a fun side project that explores the space between NoSQL and SQL da
 
 ## My Approach
 
-At Solitude Solutions, I believe in:
+At Solitude Software Solutions, I believe in:
 
 - **Learning by Doing**: My projects are as much about the journey of discovery as they are about the end result.
 - **Clean, Self-Explanatory Code**: I strive to write code that tells its own story, complemented by strong documentation.
@@ -43,4 +43,4 @@ Here's how you can contribute:
 
 ## Connect
 
-- GitHub: [Solitude Solutions Organization](https://github.com/Solitude-Solutions)
+- GitHub: [Solitude Software Solutions Organization](https://github.com/Solitude-Solutions)
